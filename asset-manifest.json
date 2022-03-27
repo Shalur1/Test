@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.749b4d7e.css",
+    "main.js": "./static/js/main.c59007eb.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/sarah-dorweiler-m2J105CzEAU-unsplash 1.png": "./static/media/sarah-dorweiler-m2J105CzEAU-unsplash 1.2f05b1c6e4d0a1ca3553.png",
+    "static/media/yugesh-ralli-Ws_6Z7HH1Lk-unsplash 1.png": "./static/media/yugesh-ralli-Ws_6Z7HH1Lk-unsplash 1.3fc679b3d0252a9de91d.png",
+    "static/media/Menu.png": "./static/media/Menu.95add238301e8e84fad0.png",
+    "static/media/jean-philippe-delberghe-PVQnaFyePvU-unsplash 1.png": "./static/media/jean-philippe-delberghe-PVQnaFyePvU-unsplash 1.afaeaec86d371eedfeb9.png",
+    "static/media/tobias-van-schneider-gz9Ez-H5asU-unsplash 1.png": "./static/media/tobias-van-schneider-gz9Ez-H5asU-unsplash 1.20dea8de653e5bd1e9b4.png",
+    "index.html": "./index.html",
+    "main.749b4d7e.css.map": "./static/css/main.749b4d7e.css.map",
+    "main.c59007eb.js.map": "./static/js/main.c59007eb.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749b4d7e.css",
+    "static/js/main.c59007eb.js"
+  ]
+}
